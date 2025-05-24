@@ -3,7 +3,6 @@
 Senior software engineer with 30+ years of experience.  
 Currently focused on Web3 infrastructure, smart contracts, and blockchain system design.  
 Public projects are verifiable via GitHub and documented in GitBook.  
-**Available for short-term smart contract projects.**
 
 ---
 
