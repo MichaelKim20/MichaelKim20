@@ -17,16 +17,12 @@ Public projects are verifiable via GitHub and documented in GitBook.
 - Secure smart contract with multi-party approval  
 - [Contract](https://github.com/bosagora/multisig-wallet)  
 - [DApp UI](https://github.com/bosagora/multisig-wallet-app)
-  
-### 3. Web3 DApp Interface
-- Wallet connect, signature collection, transaction queue  
-- [multisig-wallet-app](https://github.com/bosagora/multisig-wallet-app)
-  
-### 4. BOSagora ERC-20 Upgrade
+    
+### 3. BOSagora ERC-20 Upgrade
 - TokenSwap + Mint/Burn/Pause + Governance lock  
 - [bosagora-erc20](https://github.com/bosagora/bosagora-erc20)
 
-### 5. BOSagora Mainnet
+### 4. BOSagora Mainnet
 - Ethereum-based mainnet fork  
 - Execution Layer: [agora-el](https://github.com/bosagora/agora-el)  
 - Consensus Layer: [agora-cl](https://github.com/bosagora/agora-cl)  
