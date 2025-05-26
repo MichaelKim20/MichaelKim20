@@ -40,3 +40,8 @@ GraphQL • React • TypeScript • Web3Modal • ethers.js
 ## 📫 Contact
 📧 [michael.kim.200518@gmail.com](mailto:michael.kim.200518@gmail.com)  
 🌐 [github.com/MichaelKim20](https://github.com/MichaelKim20)
+
+## Gitcoin Passport Score: 20.1 ✅  
+KYC-verified contributor via Binance BABT  
+Ready for bounty participation & Gitcoin Grants
+
