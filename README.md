@@ -7,7 +7,7 @@ Public projects are verifiable via GitHub and documented in GitBook.
 
 ----
 
-# 👋 Michael Kim – Technical Analysis Library for Crypto Bot (Python)
+# Technical Analysis Library for Crypto Bot (Python)
 Developed a lightweight Python library that implements core technical indicators for use in algorithmic crypto trading systems.
 
 - Indicators: RSI, EMA, MACD, Bollinger Bands, and more
@@ -20,7 +20,7 @@ Used in conjunction with my previously built trading bot and designed to be modu
 
 ----
 
-# 👋 Michael Kim – Smart Contract & Web3 Engineer
+# Smart Contract & Web3 Engineer
 
 ## 🔧 Notable Projects
 
