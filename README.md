@@ -1,11 +1,26 @@
-# 👋 Michael Kim – Smart Contract & Web3 Engineer
+# 👋 Michael Kim
 
 Senior software engineer with 30+ years of experience.  
 Currently focused on Web3 infrastructure, smart contracts, and blockchain system design.  
 Contributing to smart contract infrastructure in the Web3 space.  
 Public projects are verifiable via GitHub and documented in GitBook.
 
----
+----
+
+# 👋 Michael Kim – Technical Analysis Library for Crypto Bot (Python)
+Developed a lightweight Python library that implements core technical indicators for use in algorithmic crypto trading systems.
+
+- Indicators: RSI, EMA, MACD, Bollinger Bands, and more
+- Pure Python implementation with no external TA libraries
+- Suitable for signal generation, backtesting, and real-time bot integration
+
+Used in conjunction with my previously built trading bot and designed to be modular and performant.
+
+🔗 GitHub: https://github.com/MichaelKim20/m-stp
+
+----
+
+# 👋 Michael Kim – Smart Contract & Web3 Engineer
 
 ## 🔧 Notable Projects
 
