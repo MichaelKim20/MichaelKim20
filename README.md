@@ -1,4 +1,4 @@
-# 👋 Mukeun Kim
+# 👋 Michael Kim
 
 Senior software engineer with 30+ years of experience.  
 Currently focused on Web3 infrastructure, smart contracts, and blockchain system design.  
