@@ -1,13 +1,31 @@
 # 👋 Michael Kim
 
 Senior software engineer with 30+ years of experience.  
-Currently focused on Web3 infrastructure, smart contracts, and blockchain system design.  
-Contributing to smart contract infrastructure in the Web3 space.  
+Currently focused on Web3 infrastructure, smart contracts, blockchain system design, and AI/LLM engineering.  
+Contributing to smart contract infrastructure in the Web3 space and building enterprise-level AI pipelines.  
 Public projects are verifiable via GitHub and documented in GitBook.
 
 ----
 
-# Smart Contract & Web3 Engineer
+# 🤖 AI & LLM Engineering
+
+## 🔧 Notable Projects
+
+### 1. AutoContent-Pipeline (GenAI Video Pipeline)
+- GenAI API-based fully automated multimedia video content generation pipeline.
+- Automated multimodal orchestration: Script parsing ➔ Scene Extraction (Gemini 2.0 Flash) ➔ Image Generation (Gemini 3.0 Pro) ➔ Hardware-accelerated Video Synthesis (FFmpeg).
+- Features self-correction validation algorithm and domain-specific dynamic prompt guardrails for visual consistency.
+- 🔗 [GitHub Repository](https://github.com/MichaelKim20/genai-video-pipeline-portfolio)
+
+### 2. AirGapped-LogAI (Local LLM Log Analyzer)
+- 100% Offline (Air-gapped) Local LLM-based enterprise infrastructure diagnostics & operations system.
+- Features Regex parsing for Oracle/JEUS errors, ChromaDB RAG pipeline, and multi-model routing (Phi-3, Qwen2.5-Coder) via Ollama.
+- Ensures Zero-Outbound data privacy with an SQLite-based KMS for troubleshooting history.
+- 🔗 [GitHub Repository](https://github.com/MichaelKim20/airgapped-log-ai-portfolio)
+
+----
+
+# ⛓️ Smart Contract & Web3 Engineer
 
 ## 🔧 Notable Projects
 
@@ -34,12 +52,12 @@ Public projects are verifiable via GitHub and documented in GitBook.
 ---
 
 ## 💼 Tech Stack
-Solidity • Hardhat • Node.js • PostgreSQL  
-GraphQL • React • TypeScript • Web3Modal • ethers.js
+**AI & Data:** Python • FastAPI • Streamlit • Ollama (Local LLM) • ChromaDB  
+**Web3 & Backend:** Solidity • Hardhat • Node.js • PostgreSQL • GraphQL • React • TypeScript • Web3Modal • ethers.js
 
 ---
 
-# Technical Analysis Library for Crypto Bot (Python)
+# 📈 Technical Analysis Library for Crypto Bot (Python)
 Developed a lightweight Python library that implements core technical indicators for use in algorithmic crypto trading systems.
 
 - Indicators: RSI, EMA, MACD, Bollinger Bands, and more
