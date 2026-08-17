@@ -14,15 +14,15 @@
 ## 🔧 주요 프로젝트 (Notable Projects)
 
 ### 1. AutoContent-Pipeline (GenAI 동영상 자동생산 파이프라인)
-- 상용 생성형 AI API를 연계한 원스톱 멀티미디어 동영상 자동 생산 소프트웨어입니다[cite: 2].
-- **자동화된 멀티모달 오케스트레이션:** 대본 서사 분석 ➔ 컷 분할(Gemini 2.0 Flash) ➔ 이미지 연성(Gemini 3.0 Pro) ➔ 하드웨어 가속 비디오 렌더링(FFmpeg) 파이프라인을 구축했습니다[cite: 2].
-- 컷마다 인물/배경이 달라지는 시각적 불일치를 차단하기 위해 **규칙 기반 자가 교정(Self-correction) 검증 알고리즘**과 도메인 특화(조선시대 고증 등) **동적 프롬프트 가드레일**을 독자 설계했습니다[cite: 2].
+- 상용 생성형 AI API를 연계한 원스톱 멀티미디어 동영상 자동 생산 소프트웨어입니다.
+- **자동화된 멀티모달 오케스트레이션:** 대본 서사 분석 ➔ 컷 분할(Gemini 2.0 Flash) ➔ 이미지 연성(Gemini 3.0 Pro) ➔ 하드웨어 가속 비디오 렌더링(FFmpeg) 파이프라인을 구축했습니다.
+- 컷마다 인물/배경이 달라지는 시각적 불일치를 차단하기 위해 **규칙 기반 자가 교정(Self-correction) 검증 알고리즘**과 도메인 특화(조선시대 고증 등) **동적 프롬프트 가드레일**을 독자 설계했습니다.
 - 🔗 [GitHub Repository](https://github.com/MichaelKim20/genai-video-pipeline-portfolio)
 
 ### 2. AirGapped-LogAI (로컬 LLM 인프라 장애 분석기)
-- 외부 인터넷이 완벽히 차단된 100% 폐쇄망(Air-gapped) 엔터프라이즈 환경 전용 로컬 LLM 기반 장애 진단 및 운영 관리 시스템입니다[cite: 1, 3].
-- Oracle DB/JEUS 인프라 특화 **정규식 파서**와 ChromaDB 기반의 **RAG 지식 검색 엔진**을 연동하여 AI 환각(Hallucination)을 원천 차단합니다[cite: 1, 3].
-- Ollama를 통한 **멀티 모델 동적 라우팅**(Phi-3, Qwen2.5-Coder)을 적용했으며, 분석된 로그와 조치 가이드를 SQLite 기반 KMS로 영구 자산화하여 Zero-Outbound 보안성을 보장합니다[cite: 1, 3].
+- 외부 인터넷이 완벽히 차단된 100% 폐쇄망(Air-gapped) 엔터프라이즈 환경 전용 로컬 LLM 기반 장애 진단 및 운영 관리 시스템입니다.
+- Oracle DB/JEUS 인프라 특화 **정규식 파서**와 ChromaDB 기반의 **RAG 지식 검색 엔진**을 연동하여 AI 환각(Hallucination)을 원천 차단합니다.
+- Ollama를 통한 **멀티 모델 동적 라우팅**(Phi-3, Qwen2.5-Coder)을 적용했으며, 분석된 로그와 조치 가이드를 SQLite 기반 KMS로 영구 자산화하여 Zero-Outbound 보안성을 보장합니다.
 - 🔗 [GitHub Repository](https://github.com/MichaelKim20/airgapped-log-ai-portfolio)
 
 ----
